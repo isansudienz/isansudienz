@@ -37,18 +37,6 @@ Implementation of various numerical methods including root-finding algorithms, n
 
 ---
 
-## 📊 GitHub Stats
-
-![Isan's GitHub stats](https://github-readme-stats.vercel.app/api?username=isansudienz&show_icons=true&theme=tokyonight)
-
----
-
-## 📈 Contribution Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=isansudienz&theme=tokyonight)
-
----
-
 ## 🎯 Current Focus
 
 - 📚 Deepening knowledge in **Advanced Data Structures**
