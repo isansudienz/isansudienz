@@ -41,8 +41,6 @@ Implementation of various numerical methods including root-finding algorithms, n
 
 ![Isan's GitHub stats](https://github-readme-stats.vercel.app/api?username=isansudienz&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isansudienz&layout=compact&theme=tokyonight)
-
 ---
 
 ## 📈 Contribution Activity
