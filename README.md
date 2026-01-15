@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Isan Sudien
+# Hi there! 👋 I'm Isan 
 
 🎓 **Computer Science Student** | 💻 Passionate about **Algorithms, Data Structures & Numerical Methods**
 
