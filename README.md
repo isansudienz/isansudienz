@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student+%F0%9F%8E%93)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student+%F0%9F%8E%93;)
 
 </div>
 
@@ -38,10 +38,6 @@ Collection of numerical analysis algorithms in Julia:
 - Numerical integration techniques
 - Runge-Kutta methods for differential equations
 - Optimization algorithms
-
-## 📈 Activity Graph
-
-[![Isan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isansudienz&theme=tokyo-night)](https://github.com/isansudienz)
 
 ## 🎯 Current Focus
 
