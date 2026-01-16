@@ -2,14 +2,14 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student+%F0%9F%8E%93;Algorithm+Enthusiast+%F0%9F%92%BB;Problem+Solver+%F0%9F%94%A7)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student+%F0%9F%8E%93)
 
 </div>
 
 ## 🚀 About Me
 
 - 🏫 Currently in **Semester 3** of Computer Science
-- 🌱 Learning **Data Structures, Algorithms, and Numerical Analysis**
+- 📃 Learning Programing Languages
 - 💼 Building my portfolio through hands-on projects
 - 🎯 Focused on writing clean, well-documented code
 
